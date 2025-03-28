@@ -1,4 +1,4 @@
-# Java로 openCV 라이브러리 연습
+# 🔆 Java로 openCV 라이브러리 연습
 ## 고급프로그래밍 수업 예제를 실습해 보았습니다.
 
 1. openCV_01은 openCV설치 후 버전확인 입니다.
